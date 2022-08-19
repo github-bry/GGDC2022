@@ -2,6 +2,8 @@ import pygame
 from Mars import Mars
 from AimJump import AimJump
 
+# this is a new change - Cindy
+
 # screen constants
 screen_width = 1280
 screen_height = 720
