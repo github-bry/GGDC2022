@@ -3,6 +3,7 @@ from Mars import Mars
 from AimJump import AimJump
 
 # this is a new change - Cindy
+# another change - Bryanna
 
 # screen constants
 screen_width = 1280
